@@ -34,7 +34,7 @@ namespace DeckOfCards
 
         #region Methods
         /*
-         Mathod: Shiffle the _deck
+         Mathod: Shuffle the Deck
         */
         public void Shuffle()
         {
